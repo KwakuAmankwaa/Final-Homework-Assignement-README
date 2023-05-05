@@ -6,6 +6,7 @@
   <ul>
     
     <li>https://github.com/KwakuAmankwaa12/US-College-Graudate-Wages-Analysis</li>
+    
     <li>Analysis of US College Graudate Wages based on majors in order to determine which majors has the highest and lowest
       unemployment, underemployment rates as well as early career and mid career wages.</li>
    
@@ -19,7 +20,8 @@
   <ul>
     
     <li>https://github.com/KwakuAmankwaa12/Average-US-College-Graduate-Wages-Statistics-and-Altair-Bar-Graph-</li>
-    <li>Calculates the mean of the analyzed dataset in previous project and creates a bar graph using the Altair python         library</li>
+    
+    <li>Calculates the mean of the analyzed dataset in previous project and creates a bar graph using the Altair python library</li>
     
   </ul>
   
